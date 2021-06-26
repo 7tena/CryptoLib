@@ -18,7 +18,7 @@
 This is a repository made for Cryptographic utility libraries.
 
 ## Project Status
-* Not active.
+* Active.
 
 # Getting Started
 * see https://github.com/aicore/CryptoLib/blob/main/README.md
